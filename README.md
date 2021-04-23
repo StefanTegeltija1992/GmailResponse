@@ -1,5 +1,3 @@
-# GmailResponse
-GmailResponse
 {
   "id": "1790000de925e63b",
   "threadId": "1790000de925e63b",
@@ -194,4 +192,3 @@ GmailResponse
   "historyId": "2827943",
   "internalDate": "1619202726000"
 }
-
